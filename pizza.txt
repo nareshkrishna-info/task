@@ -3,7 +3,7 @@
 recipe from sravanthi
 
 
-1.chicken
-2.egg
-3.fish
+1. go to dominos.com
+2. select the pizza
+3. order
 

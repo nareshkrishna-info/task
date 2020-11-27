@@ -6,5 +6,8 @@ chicken 65
 egg rice
 chicken fry
 
+kfc
+pizza
+
 
 thank you

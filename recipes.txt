@@ -4,3 +4,4 @@ welcome to kittu kitchen
 
 chicken 65
 egg rice
+chicken fry
